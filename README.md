@@ -1,5 +1,5 @@
-# OIBSIP_TASK_NO_2
-                                   EMAIL SPAM DETECTION USING MACHINE LEARNING 
+#  EMAIL SPAM DETECTION USING MACHINE LEARNING 
+                                   Introduction of Email Spam Detection
 Spam mail, or junk mail, is a type of email that is sent to a massive number of users at one time, frequently containing cryptic messages, scams, or most dangerously, phishing content.
 
 While spam emails are sometimes sent manually by a human, most often, they are sent using a bot. Most popular email platforms, like Gmail and Microsoft Outlook, automatically filter spam emails by screening for recognizable phrases and patterns. A few common spam emails include fake advertisements, chain emails, and impersonation attempts. 
